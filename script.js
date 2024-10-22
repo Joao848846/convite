@@ -1,6 +1,6 @@
 document.getElementById("confirmBtn").addEventListener("click", function () {
   document.getElementById("confirmationMessage").innerText =
-    "Presença confirmada! Nos vemos lá!";
+    "Aguardo seu retorno teimosa!";
 
   // Mostrar a imagem da rosa
   const roseImage = document.getElementById("roseImage");
